@@ -129,7 +129,7 @@ public class PopUpDictionary extends Component implements Printable, Accessible 
                                                              new BufferedWriter(new FileWriter("./test.txt"));
 
 
-                                                     writer.write(String.valueOf(tf));
+                                                     writer.write(def);
 
                                                      writer.close();
                                                  } catch (IOException e1) {
