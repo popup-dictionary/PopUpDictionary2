@@ -1,0 +1,1 @@
+java.awt.TextField[textfield0,100,50,150x30,text=building,editable,selection=8-8]
